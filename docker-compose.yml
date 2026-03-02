@@ -11,6 +11,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./src:/opt/airflow/src
       - ./data:/opt/airflow/data
+      - ./logs:/opt/airflow/logs
     ports:
       - "8080:8080"
     command: >

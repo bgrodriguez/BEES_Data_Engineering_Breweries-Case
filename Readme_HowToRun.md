@@ -17,4 +17,4 @@
 
 4. Trigger Pipeline
    Enable DAG
-   Click "Trigger DAG"
+   Click "Trigger DAG" --> Play Button
