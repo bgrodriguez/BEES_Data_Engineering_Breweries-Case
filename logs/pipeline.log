@@ -1,0 +1,468 @@
+2026-02-27 17:56:59,984 | INFO | Iniciando ingestão Bronze
+2026-02-27 17:57:01,236 | INFO | Página 1 coletada com 200 registros.
+2026-02-27 17:57:02,049 | INFO | Página 2 coletada com 200 registros.
+2026-02-27 17:57:02,820 | INFO | Página 3 coletada com 200 registros.
+2026-02-27 17:57:03,620 | INFO | Página 4 coletada com 200 registros.
+2026-02-27 17:57:04,609 | INFO | Página 5 coletada com 200 registros.
+2026-02-27 17:57:05,408 | INFO | Página 6 coletada com 200 registros.
+2026-02-27 17:57:06,178 | INFO | Página 7 coletada com 200 registros.
+2026-02-27 17:57:06,964 | INFO | Página 8 coletada com 200 registros.
+2026-02-27 17:57:07,807 | INFO | Página 9 coletada com 200 registros.
+2026-02-27 17:57:08,609 | INFO | Página 10 coletada com 200 registros.
+2026-02-27 17:57:09,524 | INFO | Página 11 coletada com 200 registros.
+2026-02-27 17:57:10,343 | INFO | Página 12 coletada com 200 registros.
+2026-02-27 17:57:11,135 | INFO | Página 13 coletada com 200 registros.
+2026-02-27 17:57:11,929 | INFO | Página 14 coletada com 200 registros.
+2026-02-27 17:57:12,719 | INFO | Página 15 coletada com 200 registros.
+2026-02-27 17:57:13,496 | INFO | Página 16 coletada com 200 registros.
+2026-02-27 17:57:14,439 | INFO | Página 17 coletada com 200 registros.
+2026-02-27 17:57:15,259 | INFO | Página 18 coletada com 200 registros.
+2026-02-27 17:57:16,092 | INFO | Página 19 coletada com 200 registros.
+2026-02-27 17:57:16,885 | INFO | Página 20 coletada com 200 registros.
+2026-02-27 17:57:17,732 | INFO | Página 21 coletada com 200 registros.
+2026-02-27 17:57:18,637 | INFO | Página 22 coletada com 200 registros.
+2026-02-27 17:57:19,414 | INFO | Página 23 coletada com 200 registros.
+2026-02-27 17:57:20,276 | INFO | Página 24 coletada com 200 registros.
+2026-02-27 17:57:21,198 | INFO | Página 25 coletada com 200 registros.
+2026-02-27 17:57:22,030 | INFO | Página 26 coletada com 200 registros.
+2026-02-27 17:57:22,940 | INFO | Página 27 coletada com 200 registros.
+2026-02-27 17:57:23,716 | INFO | Página 28 coletada com 200 registros.
+2026-02-27 17:57:24,571 | INFO | Página 29 coletada com 200 registros.
+2026-02-27 17:57:25,396 | INFO | Página 30 coletada com 200 registros.
+2026-02-27 17:57:26,215 | INFO | Página 31 coletada com 200 registros.
+2026-02-27 17:57:27,136 | INFO | Página 32 coletada com 200 registros.
+2026-02-27 17:57:28,061 | INFO | Página 33 coletada com 200 registros.
+2026-02-27 17:57:28,879 | INFO | Página 34 coletada com 200 registros.
+2026-02-27 17:57:29,673 | INFO | Página 35 coletada com 200 registros.
+2026-02-27 17:57:30,516 | INFO | Página 36 coletada com 200 registros.
+2026-02-27 17:57:31,335 | INFO | Página 37 coletada com 200 registros.
+2026-02-27 17:57:32,157 | INFO | Página 38 coletada com 200 registros.
+2026-02-27 17:57:33,060 | INFO | Página 39 coletada com 200 registros.
+2026-02-27 17:57:33,874 | INFO | Página 40 coletada com 200 registros.
+2026-02-27 17:57:34,662 | INFO | Página 41 coletada com 200 registros.
+2026-02-27 17:57:35,534 | INFO | Página 42 coletada com 200 registros.
+2026-02-27 17:57:36,383 | INFO | Página 43 coletada com 200 registros.
+2026-02-27 17:57:37,286 | INFO | Página 44 coletada com 200 registros.
+2026-02-27 17:57:38,093 | INFO | Página 45 coletada com 200 registros.
+2026-02-27 17:57:39,015 | INFO | Página 46 coletada com 200 registros.
+2026-02-27 17:57:39,673 | INFO | Página 47 coletada com 51 registros.
+2026-02-27 17:57:40,277 | INFO | Fim da paginação.
+2026-02-27 17:57:40,409 | INFO | Ingestão concluída com sucesso. Total registros: 9251
+2026-02-28 15:24:22,130 | INFO | Iniciando ingestão Bronze
+2026-02-28 15:24:23,121 | INFO | Página 1 coletada com 200 registros.
+2026-02-28 15:24:23,563 | INFO | Página 2 coletada com 200 registros.
+2026-02-28 15:24:24,140 | INFO | Página 3 coletada com 200 registros.
+2026-02-28 15:24:24,657 | INFO | Página 4 coletada com 200 registros.
+2026-02-28 15:24:25,168 | INFO | Página 5 coletada com 200 registros.
+2026-02-28 15:24:25,680 | INFO | Página 6 coletada com 200 registros.
+2026-02-28 15:24:26,184 | INFO | Página 7 coletada com 200 registros.
+2026-02-28 15:24:27,122 | INFO | Página 8 coletada com 200 registros.
+2026-02-28 15:24:27,578 | INFO | Página 9 coletada com 200 registros.
+2026-02-28 15:24:28,034 | INFO | Página 10 coletada com 200 registros.
+2026-02-28 15:24:28,564 | INFO | Página 11 coletada com 200 registros.
+2026-02-28 15:24:29,059 | INFO | Página 12 coletada com 200 registros.
+2026-02-28 15:24:29,573 | INFO | Página 13 coletada com 200 registros.
+2026-02-28 15:24:30,084 | INFO | Página 14 coletada com 200 registros.
+2026-02-28 15:24:30,594 | INFO | Página 15 coletada com 200 registros.
+2026-02-28 15:24:31,518 | INFO | Página 16 coletada com 200 registros.
+2026-02-28 15:24:32,029 | INFO | Página 17 coletada com 200 registros.
+2026-02-28 15:24:32,472 | INFO | Página 18 coletada com 200 registros.
+2026-02-28 15:24:32,909 | INFO | Página 19 coletada com 200 registros.
+2026-02-28 15:24:33,571 | INFO | Página 20 coletada com 200 registros.
+2026-02-28 15:24:34,051 | INFO | Página 21 coletada com 200 registros.
+2026-02-28 15:24:34,898 | INFO | Página 22 coletada com 200 registros.
+2026-02-28 15:24:35,401 | INFO | Página 23 coletada com 200 registros.
+2026-02-28 15:24:36,024 | INFO | Página 24 coletada com 200 registros.
+2026-02-28 15:24:36,534 | INFO | Página 25 coletada com 200 registros.
+2026-02-28 15:24:37,045 | INFO | Página 26 coletada com 200 registros.
+2026-02-28 15:24:37,558 | INFO | Página 27 coletada com 200 registros.
+2026-02-28 15:24:38,070 | INFO | Página 28 coletada com 200 registros.
+2026-02-28 15:24:38,583 | INFO | Página 29 coletada com 200 registros.
+2026-02-28 15:24:39,094 | INFO | Página 30 coletada com 200 registros.
+2026-02-28 15:24:39,607 | INFO | Página 31 coletada com 200 registros.
+2026-02-28 15:24:40,118 | INFO | Página 32 coletada com 200 registros.
+2026-02-28 15:24:40,734 | INFO | Página 33 coletada com 200 registros.
+2026-02-28 15:24:41,209 | INFO | Página 34 coletada com 200 registros.
+2026-02-28 15:24:41,642 | INFO | Página 35 coletada com 200 registros.
+2026-02-28 15:24:42,168 | INFO | Página 36 coletada com 200 registros.
+2026-02-28 15:24:42,678 | INFO | Página 37 coletada com 200 registros.
+2026-02-28 15:24:43,192 | INFO | Página 38 coletada com 200 registros.
+2026-02-28 15:24:43,675 | INFO | Página 39 coletada com 200 registros.
+2026-02-28 15:24:44,155 | INFO | Página 40 coletada com 200 registros.
+2026-02-28 15:24:44,625 | INFO | Página 41 coletada com 200 registros.
+2026-02-28 15:24:45,141 | INFO | Página 42 coletada com 200 registros.
+2026-02-28 15:24:45,649 | INFO | Página 43 coletada com 200 registros.
+2026-02-28 15:24:46,161 | INFO | Página 44 coletada com 200 registros.
+2026-02-28 15:24:46,716 | INFO | Página 45 coletada com 200 registros.
+2026-02-28 15:24:47,188 | INFO | Página 46 coletada com 200 registros.
+2026-02-28 15:24:47,594 | INFO | Página 47 coletada com 51 registros.
+2026-02-28 15:24:48,283 | INFO | Fim da paginação.
+2026-02-28 15:24:48,364 | INFO | Ingestão concluída com sucesso. Total registros: 9251
+2026-02-28 16:15:47,310 | INFO | Silver processado para 2026-02-27
+2026-02-28 16:15:47,380 | INFO | Silver processado para 2026-02-28
+2026-02-28 16:18:13,059 | INFO | Iniciando ingestão Bronze
+2026-02-28 16:18:13,060 | WARNING | Ingestão já realizada para 2026-02-28. Pulando execução.
+2026-02-28 16:21:16,417 | INFO | Silver processado para 2026-02-27
+2026-02-28 16:21:16,484 | INFO | Silver processado para 2026-02-28
+2026-02-28 16:51:17,983 | INFO | Silver processado para 2026-02-27
+2026-02-28 16:51:18,055 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:08:55,256 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:08:55,257 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:08:55,258 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:08:55,259 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:08:55,260 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:08:55,260 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,130 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,131 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,132 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,133 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,133 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:14:22,134 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,934 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,935 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,936 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,936 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,937 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:16:31,938 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,883 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,884 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,884 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,885 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,886 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:17:09,886 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,805 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,805 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,806 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,807 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,808 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:13,808 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,259 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/2aeead36a5cd4416a961afe1e3053a7b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,259 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/bbfc04bbecdf41da97923e11f2dfd6ae-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,260 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/73400b37c0a246d0a68461bc41390802-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,261 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b1f6e8c76148436090a246bfcc77480b-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,262 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/1f50c5df61cf4bc28e51f8d9c3908bcb-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:21:25,262 | WARNING | falha lendo data/silver/country=United%20States/state=Missouri/b74ec4a59ccd422da46051855e380fca-0.parquet: Column cannot have more than one dictionary. -- pulando arquivo
+2026-02-28 17:31:26,956 | INFO | Iniciando camada Gold
+2026-02-28 17:31:27,058 | ERROR | [GOLD CREATION ERROR] Column cannot have more than one dictionary.
+2026-02-28 17:32:00,240 | INFO | Iniciando camada Gold
+2026-02-28 17:35:59,691 | INFO | Silver processado para 2026-02-27
+2026-02-28 17:35:59,759 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:36:00,070 | INFO | Iniciando camada Gold
+2026-02-28 17:37:37,357 | INFO | Silver processado para 2026-02-27
+2026-02-28 17:37:37,424 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:45:49,953 | INFO | Silver processado para 2026-02-27
+2026-02-28 17:45:50,023 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:47:15,378 | INFO | Iniciando camada Gold
+2026-02-28 17:57:17,659 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 17:57:17,659 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 17:57:17,802 | INFO | Silver processado para 2026-02-27
+2026-02-28 17:57:17,802 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 17:57:17,871 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:59:11,307 | INFO | Iniciando transformação Silver
+2026-02-28 17:59:11,307 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 17:59:11,307 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 17:59:11,363 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 17:59:11,497 | INFO | Silver processado para 2026-02-27
+2026-02-28 17:59:11,497 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 17:59:11,536 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 17:59:11,578 | INFO | Silver processado para 2026-02-28
+2026-02-28 17:59:16,661 | INFO | Iniciando camada Gold
+2026-02-28 18:01:37,176 | INFO | Iniciando transformação Silver
+2026-02-28 18:01:37,176 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 18:01:37,176 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 18:01:37,277 | INFO | Silver processado para 2026-02-27
+2026-02-28 18:01:37,277 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 18:01:37,313 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:01:37,357 | INFO | Silver processado para 2026-02-28
+2026-02-28 18:01:37,667 | INFO | Iniciando camada Gold
+2026-02-28 18:07:39,090 | INFO | Iniciando transformação Silver
+2026-02-28 18:07:39,090 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 18:07:39,090 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 18:07:39,238 | INFO | Silver processado para 2026-02-27
+2026-02-28 18:07:39,238 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 18:07:39,277 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:07:39,324 | INFO | Silver processado para 2026-02-28
+2026-02-28 18:13:15,153 | INFO | Iniciando transformação Silver
+2026-02-28 18:13:15,153 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 18:13:15,153 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 18:13:15,213 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:13:15,307 | INFO | Silver processado para 2026-02-27
+2026-02-28 18:13:15,307 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 18:13:15,348 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:13:15,399 | INFO | Silver processado para 2026-02-28
+2026-02-28 18:13:23,175 | INFO | Iniciando camada Gold
+2026-02-28 18:15:15,417 | INFO | Iniciando transformação Silver
+2026-02-28 18:15:15,417 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 18:15:15,417 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 18:15:15,559 | INFO | Silver processado para 2026-02-27
+2026-02-28 18:15:15,559 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 18:15:15,598 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:15:15,648 | INFO | Silver processado para 2026-02-28
+2026-02-28 18:15:15,938 | INFO | Iniciando camada Gold
+2026-02-28 18:25:32,750 | INFO | Iniciando camada Gold
+2026-02-28 18:37:17,883 | INFO | Iniciando transformação Silver
+2026-02-28 18:37:17,883 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 18:37:17,884 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 18:37:22,468 | INFO | Silver processado para 2026-02-27
+2026-02-28 18:37:22,468 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 18:37:22,514 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 18:37:22,565 | INFO | Silver processado para 2026-02-28
+2026-02-28 18:37:36,788 | INFO | Iniciando camada Gold
+2026-02-28 19:43:55,182 | INFO | Iniciando transformação Silver
+2026-02-28 19:43:55,182 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 19:43:55,182 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 19:43:55,238 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 19:43:55,276 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 19:43:55,384 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-02-28 19:43:55,414 | ERROR | Arquivo corrompido: data/silver/country=United%20States/state=Missouri/08d22a070df14c09929981acc9f040ba-0.parquet Invalid or truncated PLAIN-encoded BYTE_ARRAY data
+2026-02-28 19:43:55,463 | WARNING | Removidos 1 arquivos corruptos na Silver
+2026-02-28 19:44:17,109 | INFO | Iniciando camada Gold
+2026-02-28 19:44:17,117 | WARNING | arquivo data/silver/country=Poland/state=dolno%C5%9Bl%C4%85skie/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,118 | WARNING | arquivo data/silver/country=Sweden/state=Blekinge/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,119 | WARNING | arquivo data/silver/country=France/state=Bouche%20du%20Rh%C3%B4ne/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,120 | WARNING | arquivo data/silver/country=Singapore/state=Singapore/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,121 | WARNING | arquivo data/silver/country=Austria/state=Steiermark/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,122 | WARNING | arquivo data/silver/country=Austria/state=Nieder%EF%BF%BDsterreich/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,123 | WARNING | arquivo data/silver/country=Austria/state=Ober%C3%B6sterreich/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,124 | WARNING | arquivo data/silver/country=Austria/state=Salzburg/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,125 | WARNING | arquivo data/silver/country=Austria/state=K%EF%BF%BDrnten/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,126 | WARNING | arquivo data/silver/country=Portugal/state=Faro/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,127 | WARNING | arquivo data/silver/country=Portugal/state=Beja/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,127 | WARNING | arquivo data/silver/country=Portugal/state=Leiria/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,128 | WARNING | arquivo data/silver/country=Portugal/state=Lisboa/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,129 | WARNING | arquivo data/silver/country=Portugal/state=Porto/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,130 | WARNING | arquivo data/silver/country=Portugal/state=Coimbra/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,131 | WARNING | arquivo data/silver/country=Portugal/state=Aveiro/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,132 | WARNING | arquivo data/silver/country=Portugal/state=Portalegre/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,133 | WARNING | arquivo data/silver/country=United%20States/state=District%20of%20Columbia/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,134 | WARNING | arquivo data/silver/country=United%20States/state=Michigan/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,135 | WARNING | arquivo data/silver/country=United%20States/state=Alaska/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,135 | WARNING | arquivo data/silver/country=United%20States/state=Arkansas/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,136 | WARNING | arquivo data/silver/country=United%20States/state=New%20York/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,137 | WARNING | arquivo data/silver/country=United%20States/state=Delaware/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,138 | WARNING | arquivo data/silver/country=United%20States/state=Oklahoma/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,139 | WARNING | arquivo data/silver/country=United%20States/state=Pennsylvania/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,140 | WARNING | arquivo data/silver/country=United%20States/state=Washington/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,141 | WARNING | arquivo data/silver/country=United%20States/state=Wisconsin/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,142 | WARNING | arquivo data/silver/country=United%20States/state=Colorado/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,143 | WARNING | arquivo data/silver/country=United%20States/state=North%20Dakota/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,143 | WARNING | arquivo data/silver/country=United%20States/state=Florida/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,144 | WARNING | arquivo data/silver/country=United%20States/state=Idaho/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,145 | WARNING | arquivo data/silver/country=United%20States/state=Texas/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,146 | WARNING | arquivo data/silver/country=United%20States/state=New%20Hampshire/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,147 | WARNING | arquivo data/silver/country=United%20States/state=New%20Jersey/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,148 | WARNING | arquivo data/silver/country=United%20States/state=Arizona/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,149 | WARNING | arquivo data/silver/country=United%20States/state=Virginia/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,149 | WARNING | arquivo data/silver/country=United%20States/state=Illinois/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,150 | WARNING | arquivo data/silver/country=United%20States/state=Wyoming/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,151 | WARNING | arquivo data/silver/country=United%20States/state=Montana/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,152 | WARNING | arquivo data/silver/country=United%20States/state=Massachusetts/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,153 | WARNING | arquivo data/silver/country=United%20States/state=South%20Carolina/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,154 | WARNING | arquivo data/silver/country=United%20States/state=Indiana/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,155 | WARNING | arquivo data/silver/country=United%20States/state=West%20Virginia/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,156 | WARNING | arquivo data/silver/country=United%20States/state=Tennessee/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,156 | WARNING | arquivo data/silver/country=United%20States/state=Nebraska/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,157 | WARNING | arquivo data/silver/country=United%20States/state=Rhode%20Island/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,158 | WARNING | arquivo data/silver/country=United%20States/state=North%20Carolina/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,159 | WARNING | arquivo data/silver/country=United%20States/state=Connecticut/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,160 | WARNING | arquivo data/silver/country=United%20States/state=Vermont/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,161 | WARNING | arquivo data/silver/country=United%20States/state=Kentucky/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,162 | WARNING | arquivo data/silver/country=United%20States/state=Maine/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,163 | WARNING | arquivo data/silver/country=United%20States/state=Oregon/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,164 | WARNING | arquivo data/silver/country=United%20States/state=Maryland/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,164 | WARNING | arquivo data/silver/country=United%20States/state=Kansas/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,165 | WARNING | arquivo data/silver/country=United%20States/state=South%20Dakota/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,166 | WARNING | arquivo data/silver/country=United%20States/state=Mississippi/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,167 | WARNING | arquivo data/silver/country=United%20States/state=Alabama/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,168 | WARNING | arquivo data/silver/country=United%20States/state=Georgia/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,169 | WARNING | arquivo data/silver/country=United%20States/state=Hawaii/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,170 | WARNING | arquivo data/silver/country=United%20States/state=Ohio/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,170 | WARNING | arquivo data/silver/country=United%20States/state=Utah/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,171 | WARNING | arquivo data/silver/country=United%20States/state=Minnesota/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,172 | WARNING | arquivo data/silver/country=United%20States/state=Iowa/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,173 | WARNING | arquivo data/silver/country=United%20States/state=New%20Mexico/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,174 | WARNING | arquivo data/silver/country=United%20States/state=Louisiana/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,175 | WARNING | arquivo data/silver/country=United%20States/state=California/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,176 | WARNING | arquivo data/silver/country=United%20States/state=Nevada/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,177 | WARNING | arquivo data/silver/country=England/state=East%20Sussex/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,177 | WARNING | arquivo data/silver/country=England/state=West%20Sussex/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,178 | WARNING | arquivo data/silver/country=Scotland/state=East%20Dunbartonshire/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,179 | WARNING | arquivo data/silver/country=Scotland/state=Bute/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,180 | WARNING | arquivo data/silver/country=Scotland/state=West%20Dunbartonshire/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,181 | WARNING | arquivo data/silver/country=Scotland/state=Argyll/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,181 | WARNING | arquivo data/silver/country=South%20Korea/state=Jeollanamdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,182 | WARNING | arquivo data/silver/country=South%20Korea/state=Deagu/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,183 | WARNING | arquivo data/silver/country=South%20Korea/state=Gyeongsangnamdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,184 | WARNING | arquivo data/silver/country=South%20Korea/state=Busan/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,185 | WARNING | arquivo data/silver/country=South%20Korea/state=Chungcheongnamdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,186 | WARNING | arquivo data/silver/country=South%20Korea/state=Gangwondo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,186 | WARNING | arquivo data/silver/country=South%20Korea/state=Gwangju/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,187 | WARNING | arquivo data/silver/country=South%20Korea/state=Incheon/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,188 | WARNING | arquivo data/silver/country=South%20Korea/state=Seoul/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,189 | WARNING | arquivo data/silver/country=South%20Korea/state=Jejudo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,190 | WARNING | arquivo data/silver/country=South%20Korea/state=Chungcheongbukdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,191 | WARNING | arquivo data/silver/country=South%20Korea/state=Daejeon/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,191 | WARNING | arquivo data/silver/country=South%20Korea/state=Gyeonggido/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,192 | WARNING | arquivo data/silver/country=South%20Korea/state=Gyeongsangbukdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,193 | WARNING | arquivo data/silver/country=South%20Korea/state=Jeollabukdo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,194 | WARNING | arquivo data/silver/country=Australia/state=NT/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,194 | WARNING | arquivo data/silver/country=Australia/state=QLD/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,195 | WARNING | arquivo data/silver/country=Australia/state=NSW/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,196 | WARNING | arquivo data/silver/country=Australia/state=TAS/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,197 | WARNING | arquivo data/silver/country=Australia/state=VIC/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,198 | WARNING | arquivo data/silver/country=Australia/state=SA/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,199 | WARNING | arquivo data/silver/country=Australia/state=ACT/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,199 | WARNING | arquivo data/silver/country=Australia/state=WA/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,200 | WARNING | arquivo data/silver/country=Germany/state=Berlin/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,201 | WARNING | arquivo data/silver/country=Ireland/state=Meath/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,202 | WARNING | arquivo data/silver/country=Ireland/state=Westmeath/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,203 | WARNING | arquivo data/silver/country=Ireland/state=Sligo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,203 | WARNING | arquivo data/silver/country=Ireland/state=Offaly/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,204 | WARNING | arquivo data/silver/country=Ireland/state=Tipperary/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,205 | WARNING | arquivo data/silver/country=Ireland/state=Dublin/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,206 | WARNING | arquivo data/silver/country=Ireland/state=Limerick/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,207 | WARNING | arquivo data/silver/country=Ireland/state=Monaghan/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,208 | WARNING | arquivo data/silver/country=Ireland/state=Kildare/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,208 | WARNING | arquivo data/silver/country=Ireland/state=Clare/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,209 | WARNING | arquivo data/silver/country=Ireland/state=Roscommon/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,210 | WARNING | arquivo data/silver/country=Ireland/state=Wicklow/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,211 | WARNING | arquivo data/silver/country=Ireland/state=Kilkenny/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,212 | WARNING | arquivo data/silver/country=Ireland/state=Mayo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,212 | WARNING | arquivo data/silver/country=Ireland/state=Galway/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,213 | WARNING | arquivo data/silver/country=Ireland/state=Cork/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,214 | WARNING | arquivo data/silver/country=Ireland/state=Waterford/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,215 | WARNING | arquivo data/silver/country=Ireland/state=Laois/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,216 | WARNING | arquivo data/silver/country=Ireland/state=Longford/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,216 | WARNING | arquivo data/silver/country=Ireland/state=Carlow/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,217 | WARNING | arquivo data/silver/country=Ireland/state=Kerry/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,218 | WARNING | arquivo data/silver/country=Ireland/state=Donegal/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,219 | WARNING | arquivo data/silver/country=Ireland/state=Wexford/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,220 | WARNING | arquivo data/silver/country=Ireland/state=Louth/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,220 | WARNING | arquivo data/silver/country=Italy/state=Bolzano/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,221 | WARNING | arquivo data/silver/country=Isle%20of%20Man/state=Middle/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,222 | WARNING | arquivo data/silver/country=Japan/state=Osaka/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,223 | WARNING | arquivo data/silver/country=Canada/state=British%20Columbia/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,224 | WARNING | arquivo data/silver/country=South%20Africa/state=Eastern%20Cape/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,224 | WARNING | arquivo data/silver/country=South%20Africa/state=Mpumalanga/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,225 | WARNING | arquivo data/silver/country=South%20Africa/state=Free%20State/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,226 | WARNING | arquivo data/silver/country=South%20Africa/state=North%20West/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,227 | WARNING | arquivo data/silver/country=South%20Africa/state=KwaZulu-Natal/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,228 | WARNING | arquivo data/silver/country=South%20Africa/state=Gauteng/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,228 | WARNING | arquivo data/silver/country=South%20Africa/state=Limpopo/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,229 | WARNING | arquivo data/silver/country=South%20Africa/state=Western%20Cape/08d22a070df14c09929981acc9f040ba-0.parquet sem colunas necessárias {'country', 'state'} -- pulando
+2026-02-28 19:44:17,229 | WARNING | nenhum dado válido lido da Silver; gold não será gerada
+2026-02-28 19:45:00,385 | INFO | Iniciando camada Gold
+2026-02-28 19:45:00,551 | INFO | Gold criada com sucesso
+2026-02-28 19:50:10,718 | INFO | Iniciando ingestão Bronze
+2026-02-28 19:50:10,718 | WARNING | Ingestão já realizada para 2026-02-28. Pulando execução.
+2026-02-28 19:50:16,575 | INFO | Iniciando transformação Silver
+2026-02-28 19:50:16,576 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-02-28 19:50:16,576 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-02-28 19:50:16,628 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-02-28 19:50:16,666 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-02-28 19:50:16,764 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-02-28 19:50:16,790 | ERROR | Arquivo corrompido: data/silver/country=United%20States/state=Missouri/69ec8cbe9ec74a4ab7d6613ba9bb17c2-0.parquet Invalid or truncated PLAIN-encoded BYTE_ARRAY data
+2026-02-28 19:50:16,835 | WARNING | Removidos 1 arquivos corruptos na Silver
+2026-02-28 19:50:20,592 | INFO | Iniciando camada Gold
+2026-02-28 19:50:20,747 | INFO | Gold criada com sucesso
+2026-02-28 19:56:53,161 | INFO | Iniciando camada Gold
+2026-02-28 19:56:53,352 | INFO | Gold criada com sucesso
+2026-02-28 19:57:54,066 | INFO | Iniciando camada Gold
+2026-02-28 19:57:54,259 | INFO | Gold criada com sucesso
+2026-02-28 20:00:28,190 | INFO | Iniciando camada Gold
+2026-02-28 20:00:28,370 | INFO | Gold criada com sucesso
+2026-02-28 20:17:17,722 | INFO | Iniciando camada Gold
+2026-02-28 20:17:17,929 | INFO | METRIC gold_rows=400 partitions=133 recent_ingest=None
+2026-02-28 20:17:17,929 | INFO | METRIC silver_files=133 skipped=0 corrupted=0
+2026-02-28 20:21:22,727 | INFO | Iniciando camada Gold
+2026-02-28 20:21:22,928 | INFO | METRIC gold_rows=400 partitions=133 recent_ingest=None
+2026-02-28 20:21:22,928 | INFO | METRIC silver_files=133 skipped=0 corrupted=0
+2026-03-01 19:01:11,255 | INFO | Iniciando transformação Silver
+2026-03-01 19:01:11,255 | WARNING | Arquivo não encontrado: data/bronze/.DS_Store/breweries_raw.json
+2026-03-01 19:01:11,255 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-03-01 19:01:11,310 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-03-01 19:01:11,346 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-03-01 19:01:11,451 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-03-01 19:01:11,480 | ERROR | Arquivo corrompido: data/silver/country=United%20States/state=Missouri/c625b099664848fc95ab3977706596e8-0.parquet Invalid or truncated PLAIN-encoded BYTE_ARRAY data
+2026-03-01 19:01:11,526 | WARNING | Removidos 1 arquivos corruptos na Silver
+2026-03-01 19:07:14,359 | INFO | Iniciando transformação Silver
+2026-03-01 19:07:14,359 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-03-01 19:07:14,408 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-03-01 19:07:14,444 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-03-01 19:07:14,534 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-03-01 19:07:14,557 | ERROR | Arquivo corrompido: data/silver/country=United%20States/state=Missouri/42c746c3ff6a490daaf36998beb65664-0.parquet Invalid or truncated PLAIN-encoded BYTE_ARRAY data
+2026-03-01 19:07:14,593 | WARNING | Removidos 1 arquivos corruptos na Silver
+2026-03-01 19:20:05,902 | INFO | Iniciando transformação Silver
+2026-03-01 19:20:05,902 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-03-01 19:20:05,952 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-03-01 19:20:06,005 | INFO | Limpeza de dados: 2290 linhas removidas por NaN ou dados inválidos
+2026-03-01 19:20:06,005 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-03-01 19:20:06,093 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-03-01 19:20:06,117 | ERROR | Arquivo corrompido encontrado: data/silver/country=United%20States/state=Missouri/1e843422e0404acd9db2efd31df1e425-0.parquet | Erro: Invalid or truncated PLAIN-encoded BYTE_ARRAY data | Movando para quarentena: data/corrupted_files/1e843422e0404acd9db2efd31df1e425-0_20260301_192006.parquet
+2026-03-01 19:20:06,117 | INFO | Arquivo movido para quarentena: data/corrupted_files/1e843422e0404acd9db2efd31df1e425-0_20260301_192006.parquet
+2026-03-01 19:20:06,156 | WARNING | Quarentenados 1 arquivos corruptos em: data/corrupted_files
+2026-03-01 19:20:06,156 | INFO | Para diagnosticar, execute: python src/recover_corrupted.py '<caminho_para_arquivo>'
+2026-03-01 20:57:11,338 | INFO | Iniciando ingestão Bronze
+2026-03-01 20:57:12,416 | INFO | Página 1 coletada com 200 registros.
+2026-03-01 20:57:13,361 | INFO | Página 2 coletada com 200 registros.
+2026-03-01 20:57:14,275 | INFO | Página 3 coletada com 200 registros.
+2026-03-01 20:57:15,133 | INFO | Página 4 coletada com 200 registros.
+2026-03-01 20:57:17,469 | INFO | Página 5 coletada com 200 registros.
+2026-03-01 20:57:18,276 | INFO | Página 6 coletada com 200 registros.
+2026-03-01 20:57:19,096 | INFO | Página 7 coletada com 200 registros.
+2026-03-01 20:57:19,916 | INFO | Página 8 coletada com 200 registros.
+2026-03-01 20:57:20,938 | INFO | Página 9 coletada com 200 registros.
+2026-03-01 20:57:21,757 | INFO | Página 10 coletada com 200 registros.
+2026-03-01 20:57:22,588 | INFO | Página 11 coletada com 200 registros.
+2026-03-01 20:57:23,366 | INFO | Página 12 coletada com 200 registros.
+2026-03-01 20:57:24,217 | INFO | Página 13 coletada com 200 registros.
+2026-03-01 20:57:25,119 | INFO | Página 14 coletada com 200 registros.
+2026-03-01 20:57:25,877 | INFO | Página 15 coletada com 200 registros.
+2026-03-01 20:57:26,774 | INFO | Página 16 coletada com 200 registros.
+2026-03-01 20:57:27,624 | INFO | Página 17 coletada com 200 registros.
+2026-03-01 20:57:28,847 | INFO | Página 18 coletada com 200 registros.
+2026-03-01 20:57:29,603 | INFO | Página 19 coletada com 200 registros.
+2026-03-01 20:57:30,389 | INFO | Página 20 coletada com 200 registros.
+2026-03-01 20:57:31,216 | INFO | Página 21 coletada com 200 registros.
+2026-03-01 20:57:32,100 | INFO | Página 22 coletada com 200 registros.
+2026-03-01 20:57:33,022 | INFO | Página 23 coletada com 200 registros.
+2026-03-01 20:57:34,149 | INFO | Página 24 coletada com 200 registros.
+2026-03-01 20:57:35,070 | INFO | Página 25 coletada com 200 registros.
+2026-03-01 20:57:35,888 | INFO | Página 26 coletada com 200 registros.
+2026-03-01 20:57:36,673 | INFO | Página 27 coletada com 200 registros.
+2026-03-01 20:57:39,477 | INFO | Página 28 coletada com 200 registros.
+2026-03-01 20:57:40,498 | INFO | Página 29 coletada com 200 registros.
+2026-03-01 20:57:41,346 | INFO | Página 30 coletada com 200 registros.
+2026-03-01 20:57:42,138 | INFO | Página 31 coletada com 200 registros.
+2026-03-01 20:57:42,969 | INFO | Página 32 coletada com 200 registros.
+2026-03-01 20:57:43,862 | INFO | Página 33 coletada com 200 registros.
+2026-03-01 20:57:44,799 | INFO | Página 34 coletada com 200 registros.
+2026-03-01 20:57:45,619 | INFO | Página 35 coletada com 200 registros.
+2026-03-01 20:57:50,840 | INFO | Página 36 coletada com 200 registros.
+2026-03-01 20:57:51,618 | INFO | Página 37 coletada com 200 registros.
+2026-03-01 20:57:52,390 | INFO | Página 38 coletada com 200 registros.
+2026-03-01 20:57:53,212 | INFO | Página 39 coletada com 200 registros.
+2026-03-01 20:57:53,986 | INFO | Página 40 coletada com 200 registros.
+2026-03-01 20:57:54,834 | INFO | Página 41 coletada com 200 registros.
+2026-03-01 20:57:55,755 | INFO | Página 42 coletada com 200 registros.
+2026-03-01 20:57:56,586 | INFO | Página 43 coletada com 200 registros.
+2026-03-01 20:57:57,496 | INFO | Página 44 coletada com 200 registros.
+2026-03-01 20:57:58,285 | INFO | Página 45 coletada com 200 registros.
+2026-03-01 20:57:59,173 | INFO | Página 46 coletada com 200 registros.
+2026-03-01 20:57:59,833 | INFO | Página 47 coletada com 51 registros.
+2026-03-01 20:58:01,282 | INFO | Fim da paginação.
+2026-03-01 20:58:01,363 | INFO | Ingestão concluída com sucesso. Total registros: 9251
+2026-03-01 20:58:01,774 | INFO | Iniciando transformação Silver
+2026-03-01 20:58:01,774 | INFO | Processando Bronze: data/bronze/2026-02-27/breweries_raw.json
+2026-03-01 20:58:01,829 | INFO | Processando Bronze: data/bronze/2026-02-28/breweries_raw.json
+2026-03-01 20:58:01,865 | INFO | Processando Bronze: data/bronze/2026-03-01/breweries_raw.json
+2026-03-01 20:58:01,917 | INFO | Limpeza de dados: 2290 linhas removidas por NaN ou dados inválidos
+2026-03-01 20:58:01,917 | INFO | Limpando camada Silver anterior para evitar conflito de schema
+2026-03-01 20:58:02,020 | INFO | Silver escrita com sucesso, validando arquivos...
+2026-03-01 20:58:02,046 | ERROR | Arquivo corrompido encontrado: data/silver/country=United%20States/state=Missouri/1a92b4ea8d614655aa29e0f1530cd8d8-0.parquet | Erro: Invalid or truncated PLAIN-encoded BYTE_ARRAY data | Movendo para quarentena: data/corrupted_files/1a92b4ea8d614655aa29e0f1530cd8d8-0_20260301_205802.parquet
+2026-03-01 20:58:02,046 | INFO | Arquivo movido para quarentena: data/corrupted_files/1a92b4ea8d614655aa29e0f1530cd8d8-0_20260301_205802.parquet
+2026-03-01 20:58:02,083 | WARNING | Quarentenados 1 arquivos corruptos em: data/corrupted_files
+2026-03-01 20:58:02,083 | INFO | Para diagnosticar, execute: python src/recover_corrupted.py '<caminho_para_arquivo>'
+2026-03-01 20:58:02,344 | INFO | Iniciando camada Gold
+2026-03-01 20:58:02,509 | INFO | METRIC gold_rows=400 partitions=133 recent_ingest=None
+2026-03-01 20:58:02,509 | INFO | METRIC silver_files=133 skipped=0 corrupted=0
